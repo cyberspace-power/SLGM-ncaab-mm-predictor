@@ -1,10 +1,7 @@
 from bs4 import BeautifulSoup as bs
 import pandas as pd
-#import os
-#from sklearn.linear_model import LogisticRegression as logreg
 import re
 import requests
-#import json
 
 
 def get_team_results():
@@ -29,7 +26,7 @@ def get_team_results():
                 features['seed_points'].append(17-seed)  # Reverse order of seed (1 seed = 16 pts, 16 seed = 1 pt, etc.)
                 features['results'].append(result_dict[team_data[2]])
     df = pd.DataFrame(features)
-    df.to_csv('./../Data/Team_Results.csv', index=False, header=True)
+    df.to_csv('./../Data/Team_Results1.csv', index=False, header=True)
 
 
 # Press the green button in the gutter to run the script.
