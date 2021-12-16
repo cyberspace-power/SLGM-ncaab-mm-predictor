@@ -6,7 +6,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 def prepare_webpage(driver, year):
-    driver.get("https://247sports.com/Season/" + year + "-Basketball/CompositeTeamRankings/")
+    driver.get("https://247sports.com/Season/" + year + "-Basketball/TeamRankings/")
 
     # Click "load more" until all teams loaded
     flag = True
