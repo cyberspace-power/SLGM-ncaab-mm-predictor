@@ -18,10 +18,10 @@ recruit_table = pd.read_csv("./../Data/recruiting.csv").set_index(["teamName", "
 
 for team in bart_names:
     # Print Teams and years:
-    a = results_table.loc[(team, slice(None)), :]
+    '''a = results_table.loc[(team, slice(None)), :]
     if len(a) < 9:
         print(team + ": " + str(len(a)), end='')
-        print(a)
+        print(a)'''
 
     for year in range(2012, 2022):
         try:

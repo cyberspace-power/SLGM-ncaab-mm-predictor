@@ -20,7 +20,8 @@ if len(nonmatching_names) == 0:
     print("barttovik -> " + file_name + ": All school names match!")
 else:
     for name in nonmatching_names:
-        print("barttovik -> " + file_name + ": " + str(df[df['teamName'] == name]))
+        # print("barttovik -> " + file_name + ": " + str(df[df['teamName'] == name]))
+        print("barttovik -> " + file_name + ": " + name)
 
 # file_to_check -> Check bart_names
 nonmatching_names = []
@@ -32,4 +33,5 @@ if len(nonmatching_names) == 0:
     print(file_name + " -> barttovik: All school names match!")
 else:
     for name in nonmatching_names:
-        print(file_name + " -> barttovik: " + str(bart_pd[bart_pd['teamName'] == name]))
+        # print(file_name + " -> barttovik: " + str(bart_pd[bart_pd['teamName'] == name]))
+        print(file_name + " -> barttovik: " + name)
