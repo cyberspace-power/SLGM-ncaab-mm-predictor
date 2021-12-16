@@ -1,12 +1,8 @@
-from bs4 import BeautifulSoup as bs
 import pandas as pd
-# import re
-import requests
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-
 
 
 def prepare_webpage(driver, year):
@@ -75,13 +71,13 @@ def get_recruit_data(driver):
                 len(features['3_star_recruits'])) + ' ' + str(len(features['4_star_recruits'])) + ' ' + str(
                 len(features['5_star_recruits'])))
 
-    df = pd.DataFrame(features)  #, index=list(range(len(features['teamName']))))
+    df = pd.DataFrame(features)
     print(df)
-    df.to_csv('./../Data/Recruiting.csv', index=False, header=True)
+    df.to_csv("./../Data/Recruiting1.csv", index=False, header=True)
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    driver = webdriver.Firefox()
-    get_recruit_data(driver)
-    driver.close()
+    drive = webdriver.Firefox()
+    get_recruit_data(drive)
+    drive.close()

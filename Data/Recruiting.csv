@@ -4,7 +4,7 @@ Duke,2012,0,4,1
 Louisville,2012,1,3,1
 Arizona,2012,0,2,2
 Texas,2012,3,3,1
-Ohio State,2012,1,4,0
+Ohio St.,2012,1,4,0
 St. John's,2012,1,4,0
 Arkansas,2012,1,3,1
 Alabama,2012,1,4,0
@@ -14,10 +14,10 @@ North Carolina,2012,3,0,2
 Pittsburgh,2012,1,2,1
 Georgetown,2012,2,3,0
 Syracuse,2012,0,1,2
-Mississippi State,2012,2,3,0
+Mississippi St.,2012,2,3,0
 Kansas,2012,2,2,0
 Rutgers,2012,6,2,0
-Michigan State,2012,3,0,1
+Michigan St.,2012,3,0,1
 Xavier,2012,0,3,0
 Washington,2012,4,0,1
 Villanova,2012,2,2,0
@@ -29,7 +29,7 @@ West Virginia,2012,7,1,0
 Gonzaga,2012,4,1,0
 Michigan,2012,1,2,0
 South Carolina,2012,1,2,0
-Oklahoma State,2012,1,1,1
+Oklahoma St.,2012,1,1,1
 Georgia,2012,4,0,1
 Connecticut,2012,0,1,1
 Western Kentucky,2012,5,1,0
@@ -44,12 +44,12 @@ LSU,2012,2,1,0
 Wisconsin,2012,3,1,0
 George Mason,2012,2,1,0
 Texas A&M,2012,1,1,0
-Florida State,2012,0,2,0
+Florida St.,2012,0,2,0
 Seton Hall,2012,7,0,0
 DePaul,2012,4,1,0
-Arizona State,2012,1,1,0
+Arizona St.,2012,1,1,0
 Colorado,2012,4,0,0
-Kansas State,2012,5,0,0
+Kansas St.,2012,5,0,0
 Auburn,2012,3,0,0
 Minnesota,2012,0,2,0
 Boston College,2012,5,0,0
@@ -59,7 +59,7 @@ Florida,2012,1,0,1
 New Mexico,2012,1,1,0
 Houston,2012,4,1,0
 Nebraska,2012,4,0,0
-Ole Miss,2012,5,0,0
+Mississippi,2012,5,0,0
 College of Charleston,2012,1,1,0
 Butler,2012,3,0,0
 SMU,2012,3,0,0
@@ -67,15 +67,15 @@ Richmond,2012,3,0,0
 Texas Tech,2012,6,0,0
 Memphis,2012,1,0,1
 Iowa,2012,3,0,0
-Washington State,2012,3,0,0
+Washington St.,2012,3,0,0
 USC,2012,4,0,0
 Iona,2012,0,1,0
-Missouri State,2012,3,0,0
+Missouri St.,2012,3,0,0
 UCLA,2012,1,1,0
-Penn State,2012,5,0,0
+Penn St.,2012,5,0,0
 Rhode Island,2012,2,0,0
-Iowa State,2012,4,0,0
-Cleveland State,2012,3,0,0
+Iowa St.,2012,4,0,0
+Cleveland St.,2012,3,0,0
 UNLV,2012,0,0,1
 Wake Forest,2012,3,0,0
 TCU,2012,2,0,0
@@ -84,23 +84,23 @@ Louisiana Tech,2012,2,0,0
 Providence,2012,2,0,0
 South Alabama,2012,1,0,0
 Maryland,2012,0,1,0
-UT-Arlington,2012,1,0,0
+UT Arlington,2012,1,0,0
 UC Santa Barbara,2012,2,0,0
 Stanford,2012,0,1,0
-Pennsylvania,2012,2,0,0
+Penn,2012,2,0,0
 High Point,2012,1,0,0
-Wisconsin-Milwaukee,2012,1,0,0
+Milwaukee,2012,1,0,0
 California,2012,2,0,0
 Ohio,2012,1,0,0
 East Carolina,2012,1,0,0
-NC State,2012,1,0,0
+North Carolina St.,2012,1,0,0
 BYU,2012,1,0,0
 Drexel,2012,1,0,0
 Manhattan,2012,1,0,0
 Creighton,2012,1,0,0
-Georgia State,2012,1,0,0
-Oregon State,2012,1,0,0
-Miami,2012,1,0,0
+Georgia St.,2012,1,0,0
+Oregon St.,2012,1,0,0
+Miami FL,2012,1,0,0
 Pepperdine,2012,1,0,0
 UTEP,2012,1,0,0
 Kentucky,2013,0,1,3
@@ -114,9 +114,9 @@ Michigan,2013,2,2,1
 Texas,2013,2,3,1
 Georgia Tech,2013,1,3,0
 Kansas,2013,2,3,0
-Michigan State,2013,0,3,1
+Michigan St.,2013,0,3,1
 Maryland,2013,1,4,0
-NC State,2013,0,1,2
+North Carolina St.,2013,0,1,2
 Virginia,2013,2,3,0
 Purdue,2013,0,4,0
 Colorado,2013,4,2,0
@@ -130,21 +130,21 @@ Houston,2013,2,1,1
 Pittsburgh,2013,1,1,1
 Xavier,2013,1,2,0
 Villanova,2013,1,2,0
-Ole Miss,2013,4,2,0
+Mississippi,2013,4,2,0
 Connecticut,2013,1,2,0
 Notre Dame,2013,1,2,0
 Iowa,2013,3,2,0
-San Diego State,2013,1,2,0
+San Diego St.,2013,1,2,0
 St. John's,2013,1,2,0
 Stanford,2013,1,2,0
 Auburn,2013,4,2,0
-Mississippi State,2013,5,1,0
+Mississippi St.,2013,5,1,0
 Georgia,2013,2,2,0
 Tennessee,2013,3,1,0
-Iowa State,2013,2,2,0
-Florida State,2013,3,1,0
+Iowa St.,2013,2,2,0
+Florida St.,2013,3,1,0
 Duke,2013,0,1,1
-Oklahoma State,2013,2,0,1
+Oklahoma St.,2013,2,0,1
 Syracuse,2013,0,1,1
 Clemson,2013,4,1,0
 West Virginia,2013,2,1,0
@@ -156,19 +156,19 @@ Utah,2013,2,1,0
 VCU,2013,2,1,0
 LSU,2013,3,1,0
 Missouri,2013,4,0,0
-Oregon State,2013,3,1,0
+Oregon St.,2013,3,1,0
 Northwestern,2013,3,1,0
 Marquette,2013,1,1,0
 Vanderbilt,2013,3,0,0
 Wisconsin,2013,1,0,1
 Butler,2013,1,1,0
 South Carolina,2013,4,0,0
-Arizona State,2013,3,0,0
+Arizona St.,2013,3,0,0
 Charlotte,2013,1,1,0
-Washington State,2013,1,1,0
+Washington St.,2013,1,1,0
 Boston College,2013,2,0,0
 Alabama,2013,0,0,1
-Fresno State,2013,0,1,0
+Fresno St.,2013,0,1,0
 Louisville,2013,0,1,0
 Marshall,2013,0,1,0
 Towson,2013,0,1,0
@@ -182,9 +182,9 @@ North Florida,2013,0,1,0
 James Madison,2013,0,1,0
 Furman,2013,0,1,0
 Jacksonville,2013,1,0,0
-Loyola Maryland,2013,1,0,0
+Loyola MD,2013,1,0,0
 The Citadel,2013,1,0,0
-Miami,2013,1,0,0
+Miami FL,2013,1,0,0
 Rhode Island,2013,1,0,0
 Harvard,2013,1,0,0
 Virginia Tech,2013,1,0,0
@@ -199,7 +199,7 @@ LSU,2014,1,2,1
 Marquette,2014,2,3,0
 Syracuse,2014,2,2,1
 Duke,2014,0,2,1
-NC State,2014,2,3,0
+North Carolina St.,2014,2,3,0
 Arizona,2014,0,1,2
 UCLA,2014,1,2,1
 Illinois,2014,1,4,0
@@ -214,9 +214,9 @@ BYU,2014,3,2,0
 UNLV,2014,2,3,0
 SMU,2014,2,2,0
 South Carolina,2014,2,2,0
-USF,2014,2,2,0
+South Florida,2014,2,2,0
 Cincinnati,2014,3,1,0
-Miami,2014,3,3,0
+Miami FL,2014,3,3,0
 Purdue,2014,0,3,0
 California,2014,3,0,1
 Washington,2014,1,2,0
@@ -228,71 +228,71 @@ Tennessee,2014,3,0,1
 Villanova,2014,0,2,0
 Connecticut,2014,1,2,0
 Wisconsin,2014,3,1,0
-Ohio State,2014,0,2,0
-Iowa State,2014,0,2,0
+Ohio St.,2014,0,2,0
+Iowa St.,2014,0,2,0
 TCU,2014,2,1,0
-Florida State,2014,0,2,0
+Florida St.,2014,0,2,0
 Stanford,2014,2,1,0
 Texas A&M,2014,4,0,0
 Maryland,2014,1,1,0
 Butler,2014,3,1,0
-Kansas State,2014,4,0,0
+Kansas St.,2014,4,0,0
 USC,2014,4,0,0
 DePaul,2014,2,1,0
-Oklahoma State,2014,1,1,0
+Oklahoma St.,2014,1,1,0
 Providence,2014,1,1,0
 Oregon,2014,4,0,0
 Virginia,2014,0,2,0
 Manhattan,2014,1,0,1
 Colorado,2014,1,1,0
 Nebraska,2014,3,0,0
-San Diego State,2014,1,1,0
+San Diego St.,2014,1,1,0
 Georgia,2014,3,0,0
 VCU,2014,4,0,0
 UTEP,2014,3,0,0
-Ball State,2014,2,1,0
-Penn State,2014,3,0,0
+Ball St.,2014,2,1,0
+Penn St.,2014,3,0,0
 Rhode Island,2014,1,1,0
 UAB,2014,3,0,0
 Georgia Tech,2014,1,1,0
 Dayton,2014,2,0,0
 Xavier,2014,1,1,0
-St. Mary's,2014,2,0,0
+Saint Mary's,2014,2,0,0
 Massachusetts,2014,2,0,0
 Virginia Tech,2014,2,0,0
 Temple,2014,1,1,0
 Auburn,2014,6,0,0
 Wake Forest,2014,1,1,0
 Duquesne,2014,1,1,0
-Pennsylvania,2014,2,0,0
+Penn,2014,2,0,0
 Vanderbilt,2014,0,1,0
-Arizona State,2014,2,0,0
+Arizona St.,2014,2,0,0
 Clemson,2014,2,0,0
-Michigan State,2014,2,0,0
-Illinois State,2014,2,0,0
+Michigan St.,2014,2,0,0
+Illinois St.,2014,2,0,0
 Oklahoma,2014,2,0,0
-Ole Miss,2014,2,0,0
-Fresno State,2014,2,0,0
+Mississippi,2014,2,0,0
+Fresno St.,2014,2,0,0
 Utah,2014,2,0,0
-Middle Tennessee State,2014,3,0,0
-Washington State,2014,2,0,0
+Middle Tennessee,2014,3,0,0
+Washington St.,2014,2,0,0
 St. John's,2014,0,1,0
-San Jose State,2014,1,0,0
+San Jose St.,2014,1,0,0
 Minnesota,2014,2,0,0
 East Carolina,2014,2,0,0
 UC Irvine,2014,0,1,0
 Georgetown,2014,0,1,0
-Mississippi State,2014,2,0,0
-Oregon State,2014,2,0,0
+Mississippi St.,2014,2,0,0
+Oregon St.,2014,2,0,0
 Harvard,2014,0,1,0
 Texas Tech,2014,1,0,0
 Rutgers,2014,0,1,0
 Seton Hall,2014,1,0,0
 Boston College,2014,2,0,0
-Missouri-Kansas City,2014,1,0,0
-Tennessee State,2014,1,0,0
-Indiana State,2014,1,0,0
-Wichita State,2014,1,0,0
+UMKC,2014,1,0,0
+Tennessee St.,2014,1,0,0
+Indiana St.,2014,1,0,0
+Wichita St.,2014,1,0,0
 Saint Louis,2014,1,0,0
 Pepperdine,2014,1,0,0
 Fordham,2014,1,0,0
@@ -301,7 +301,7 @@ Northwestern,2014,1,0,0
 UCF,2014,1,0,0
 College of Charleston,2014,1,0,0
 Northern Iowa,2014,1,0,0
-East Tennessee State,2014,1,0,0
+East Tennessee St.,2014,1,0,0
 Marshall,2014,1,0,0
 Southern Miss,2014,1,0,0
 Charleston Southern,2014,0,0,0
@@ -313,29 +313,29 @@ Valparaiso,2014,1,0,0
 Howard,2014,1,0,0
 Montana,2014,1,0,0
 Iowa,2014,1,0,0
-Cleveland State,2014,1,0,0
+Cleveland St.,2014,1,0,0
 James Madison,2014,1,0,0
 Mercer,2014,1,0,0
 Chattanooga,2014,1,0,0
-New Mexico State,2014,1,0,0
+New Mexico St.,2014,1,0,0
 Gonzaga,2014,0,0,0
 Drake,2014,0,0,0
 Western Carolina,2014,0,0,0
 Ohio,2014,0,0,0
-Murray State,2014,0,0,0
+Murray St.,2014,0,0,0
 UNC Wilmington,2014,0,0,0
 Boston University,2014,0,0,0
 Presbyterian,2014,0,0,0
 Southeastern Louisiana,2014,0,0,0
 Portland,2014,0,0,0
 Central Michigan,2014,0,0,0
-Virginia Military Institute,2014,0,0,0
+VMI,2014,0,0,0
 Duke,2015,0,1,3
 Kentucky,2015,0,0,4
 Arizona,2015,1,3,1
 UNLV,2015,2,2,1
 Louisville,2015,2,4,0
-Ohio State,2015,1,2,1
+Ohio St.,2015,1,2,1
 UCLA,2015,1,2,1
 Georgetown,2015,1,4,0
 Kansas,2015,1,1,2
@@ -346,8 +346,8 @@ Maryland,2015,0,4,0
 Florida,2015,0,2,1
 Xavier,2015,0,6,0
 Seton Hall,2015,4,1,1
-San Diego State,2015,1,3,0
-NC State,2015,0,3,0
+San Diego St.,2015,1,3,0
+North Carolina St.,2015,0,3,0
 USC,2015,2,2,0
 Providence,2015,1,3,0
 Indiana,2015,3,1,1
@@ -355,21 +355,21 @@ Alabama,2015,1,3,0
 Oregon,2015,3,3,0
 Virginia Tech,2015,4,2,0
 VCU,2015,1,3,0
-Miami,2015,2,2,0
+Miami FL,2015,2,2,0
 Vanderbilt,2015,1,4,0
-Oklahoma State,2015,3,2,0
+Oklahoma St.,2015,3,2,0
 BYU,2015,2,2,0
 Michigan,2015,2,2,0
 Cincinnati,2015,2,2,0
 Virginia,2015,3,1,0
 Purdue,2015,3,2,0
 Oklahoma,2015,2,2,0
-Arizona State,2015,3,2,0
+Arizona St.,2015,3,2,0
 Auburn,2015,1,2,0
 Memphis,2015,3,1,0
 Syracuse,2015,0,1,1
 Tennessee,2015,5,1,0
-Michigan State,2015,2,1,0
+Michigan St.,2015,2,1,0
 Texas,2015,0,1,1
 South Carolina,2015,2,2,0
 Arkansas,2015,3,1,0
@@ -383,41 +383,41 @@ Utah,2015,2,1,0
 Texas A&M,2015,3,1,0
 Georgia Tech,2015,2,1,0
 George Washington,2015,3,1,0
-Wichita State,2015,3,1,0
+Wichita St.,2015,3,1,0
 Notre Dame,2015,2,1,0
 Illinois,2015,1,1,0
-Ole Miss,2015,5,0,0
-Florida State,2015,3,1,0
+Mississippi,2015,5,0,0
+Florida St.,2015,3,1,0
 Creighton,2015,1,1,0
 Saint Joseph's,2015,3,0,0
 Baylor,2015,3,1,0
 Butler,2015,2,1,0
 Rhode Island,2015,1,1,0
 Minnesota,2015,5,0,0
-Kansas State,2015,1,1,0
-Oregon State,2015,3,0,0
-Boise State,2015,2,1,0
-Fresno State,2015,2,1,0
+Kansas St.,2015,1,1,0
+Oregon St.,2015,3,0,0
+Boise St.,2015,2,1,0
+Fresno St.,2015,2,1,0
 Rutgers,2015,5,0,0
 Colorado,2015,1,1,0
 UCF,2015,3,0,0
-USF,2015,3,0,0
+South Florida,2015,3,0,0
 UAB,2015,2,0,0
 Texas Tech,2015,6,0,0
 Drake,2015,3,0,0
-Miami (OH),2015,1,1,0
+Miami OH,2015,1,1,0
 Iowa,2015,3,0,0
 Saint Louis,2015,5,0,0
 Massachusetts,2015,1,1,0
 Clemson,2015,1,1,0
 West Virginia,2015,4,0,0
-Mississippi State,2015,4,0,0
-Ball State,2015,0,1,0
+Mississippi St.,2015,4,0,0
+Ball St.,2015,0,1,0
 Rice,2015,2,0,0
 George Mason,2015,3,0,0
 Belmont,2015,1,1,0
 Pittsburgh,2015,3,0,0
-Colorado State,2015,2,0,0
+Colorado St.,2015,2,0,0
 Dayton,2015,1,1,0
 Bradley,2015,1,1,0
 Houston,2015,1,1,0
@@ -427,10 +427,10 @@ Harvard,2015,2,0,0
 Nebraska,2015,2,0,0
 Hofstra,2015,2,0,0
 UTEP,2015,2,0,0
-Middle Tennessee State,2015,2,0,0
+Middle Tennessee,2015,2,0,0
 South Alabama,2015,4,0,0
 DePaul,2015,2,0,0
-Penn State,2015,2,0,0
+Penn St.,2015,2,0,0
 East Carolina,2015,1,0,0
 Wyoming,2015,1,0,0
 Princeton,2015,2,0,0
@@ -441,52 +441,52 @@ Charlotte,2015,2,0,0
 Louisiana Tech,2015,2,0,0
 Georgia,2015,2,0,0
 Buffalo,2015,1,0,0
-Wright State,2015,2,0,0
+Wright St.,2015,2,0,0
 College of Charleston,2015,1,0,0
 Wake Forest,2015,2,0,0
 St. John's,2015,2,0,0
-Utah State,2015,1,0,0
+Utah St.,2015,1,0,0
 Temple,2015,0,1,0
 Nevada,2015,2,0,0
-Iowa State,2015,0,1,0
+Iowa St.,2015,0,1,0
 Southern Miss,2015,1,0,0
 Lipscomb,2015,2,0,0
-Murray State,2015,1,0,0
+Murray St.,2015,1,0,0
 California,2015,2,0,0
-Wisconsin-Green Bay,2015,2,0,0
-Georgia State,2015,1,0,0
+Green Bay,2015,2,0,0
+Georgia St.,2015,1,0,0
 Stetson,2015,1,0,0
 Tulane,2015,1,0,0
-Washington State,2015,2,0,0
+Washington St.,2015,2,0,0
 Wisconsin,2015,1,0,0
 TCU,2015,1,0,0
 Florida Atlantic,2015,1,0,0
 Fordham,2015,1,0,0
-Kent State,2015,1,0,0
+Kent St.,2015,1,0,0
 Saint Peter's,2015,1,0,0
 Boston College,2015,1,0,0
 Marshall,2015,1,0,0
 Florida Gulf Coast,2015,1,0,0
-New Mexico State,2015,1,0,0
-Loyola (Chi),2015,1,0,0
+New Mexico St.,2015,1,0,0
+Loyola Chicago,2015,1,0,0
 UNC Greensboro,2015,0,0,0
 Duquesne,2015,1,0,0
 Elon,2015,1,0,0
 Akron,2015,1,0,0
 Liberty,2015,1,0,0
-San Jose State,2015,1,0,0
-Missouri-Kansas City,2015,1,0,0
+San Jose St.,2015,1,0,0
+UMKC,2015,1,0,0
 UC Santa Barbara,2015,1,0,0
 Wofford,2015,1,0,0
 Charleston Southern,2015,1,0,0
 Southern Illinois,2015,1,0,0
 Manhattan,2015,1,0,0
-Long Beach State,2015,0,0,0
-Gardner-Webb,2015,0,0,0
+Long Beach St.,2015,0,0,0
+Gardner Webb,2015,0,0,0
 Ohio,2015,0,0,0
 Jacksonville,2015,0,0,0
 Georgia Southern,2015,0,0,0
-Youngstown State,2015,0,0,0
+Youngstown St.,2015,0,0,0
 Tennessee Tech,2015,0,0,0
 William & Mary,2015,0,0,0
 SMU,2015,0,0,0
@@ -494,13 +494,13 @@ Kentucky,2016,1,3,3
 Duke,2016,2,0,4
 Arizona,2016,0,2,2
 Texas A&M,2016,0,5,0
-Ohio State,2016,0,5,0
+Ohio St.,2016,0,5,0
 Louisville,2016,1,3,0
 Washington,2016,3,5,0
 Syracuse,2016,0,4,0
 Memphis,2016,5,3,0
 LSU,2016,0,1,2
-Florida State,2016,1,2,1
+Florida St.,2016,1,2,1
 Marquette,2016,2,2,1
 Kansas,2016,0,1,2
 UNLV,2016,2,1,1
@@ -510,17 +510,17 @@ Florida,2016,1,3,0
 Texas,2016,0,3,0
 Oregon,2016,0,4,0
 California,2016,1,0,2
-Oregon State,2016,3,3,0
-Mississippi State,2016,1,2,1
+Oregon St.,2016,3,3,0
+Mississippi St.,2016,1,2,1
 Virginia Tech,2016,2,3,0
 UCLA,2016,2,2,0
-Michigan State,2016,1,2,0
+Michigan St.,2016,1,2,0
 St. John's,2016,2,4,0
 Nebraska,2016,2,3,0
 Georgetown,2016,1,2,0
 Villanova,2016,1,1,1
 Wake Forest,2016,1,2,0
-Oklahoma State,2016,1,2,0
+Oklahoma St.,2016,1,2,0
 Indiana,2016,1,1,1
 South Carolina,2016,4,0,1
 Minnesota,2016,3,2,0
@@ -530,7 +530,7 @@ Purdue,2016,1,1,1
 UTEP,2016,4,1,0
 Vanderbilt,2016,3,1,0
 SMU,2016,1,2,0
-Penn State,2016,1,2,0
+Penn St.,2016,1,2,0
 Rutgers,2016,3,1,0
 Notre Dame,2016,1,2,0
 Wisconsin,2016,2,2,0
@@ -539,66 +539,66 @@ Baylor,2016,2,1,0
 Connecticut,2016,0,1,1
 Georgia,2016,3,1,0
 Missouri,2016,5,1,0
-USF,2016,4,1,0
+South Florida,2016,4,1,0
 Oklahoma,2016,2,1,0
 Temple,2016,1,2,0
 Cincinnati,2016,1,2,0
-San Diego State,2016,0,2,0
+San Diego St.,2016,0,2,0
 Maryland,2016,1,0,1
 UCF,2016,4,0,0
-Wichita State,2016,3,1,0
-NC State,2016,1,1,0
-Fresno State,2016,2,1,0
+Wichita St.,2016,3,1,0
+North Carolina St.,2016,1,1,0
+Fresno St.,2016,2,1,0
 Tennessee,2016,4,1,0
 Northwestern,2016,2,1,0
 Virginia,2016,1,1,0
-Kansas State,2016,7,0,0
+Kansas St.,2016,7,0,0
 Tulane,2016,4,0,0
-Arizona State,2016,3,0,0
+Arizona St.,2016,3,0,0
 Providence,2016,4,1,0
 Houston,2016,4,0,0
 TCU,2016,4,0,0
 Creighton,2016,2,1,0
 North Carolina,2016,1,1,0
 Boston College,2016,5,0,0
-Iowa State,2016,2,1,0
+Iowa St.,2016,2,1,0
 Alabama,2016,3,0,0
 Texas Tech,2016,4,0,0
 VCU,2016,4,0,0
 New Mexico,2016,3,0,0
-Miami,2016,1,1,0
+Miami FL,2016,1,1,0
 DePaul,2016,4,0,0
 Iowa,2016,4,0,0
 Pittsburgh,2016,1,1,0
 Dayton,2016,3,0,0
 Clemson,2016,1,1,0
-Colorado State,2016,1,1,0
+Colorado St.,2016,1,1,0
 Rice,2016,3,0,0
 Seton Hall,2016,3,0,0
 Northern Illinois,2016,2,0,0
-Boise State,2016,1,1,0
+Boise St.,2016,1,1,0
 Florida Gulf Coast,2016,2,0,0
 Fordham,2016,2,0,0
 Harvard,2016,4,0,0
 IUPUI,2016,1,0,0
 Saint Joseph's,2016,3,0,0
 Western Kentucky,2016,3,0,0
-Washington State,2016,3,0,0
+Washington St.,2016,3,0,0
 Utah,2016,2,0,0
-Ole Miss,2016,2,0,0
+Mississippi,2016,2,0,0
 Wyoming,2016,2,0,0
-UT Martin,2016,2,0,0
+Tennessee Martin,2016,2,0,0
 South Alabama,2016,2,0,0
-Southeast Missouri State,2016,2,0,0
+Southeast Missouri St.,2016,2,0,0
 Arkansas,2016,0,1,0
-Long Beach State,2016,2,0,0
+Long Beach St.,2016,2,0,0
 Butler,2016,2,0,0
 East Carolina,2016,2,0,0
 Southern Illinois,2016,2,0,0
 UNC Asheville,2016,2,0,0
 Michigan,2016,0,1,0
 Toledo,2016,2,0,0
-Illinois-Chicago,2016,1,0,0
+Illinois Chicago,2016,1,0,0
 North Texas,2016,2,0,0
 Georgia Southern,2016,1,0,0
 Gonzaga,2016,0,1,0
@@ -606,20 +606,20 @@ Drake,2016,2,0,0
 Rhode Island,2016,1,0,0
 Northeastern,2016,1,0,0
 Xavier,2016,1,0,0
-San Jose State,2016,1,0,0
-Murray State,2016,1,0,0
-Loyola (Chi),2016,1,0,0
-Arkansas-Little Rock,2016,1,0,0
+San Jose St.,2016,1,0,0
+Murray St.,2016,1,0,0
+Loyola Chicago,2016,1,0,0
+Little Rock,2016,1,0,0
 Colorado,2016,1,0,0
 UC Irvine,2016,1,0,0
-Ball State,2016,1,0,0
+Ball St.,2016,1,0,0
 BYU,2016,1,0,0
 Western Michigan,2016,1,0,0
 Fairfield,2016,1,0,0
 Valparaiso,2016,1,0,0
 North Carolina Central,2016,1,0,0
 Georgia Tech,2016,1,0,0
-Utah State,2016,1,0,0
+Utah St.,2016,1,0,0
 Idaho,2016,1,0,0
 Princeton,2016,1,0,0
 Massachusetts,2016,1,0,0
@@ -628,26 +628,26 @@ Old Dominion,2016,1,0,0
 San Diego,2016,1,0,0
 Dartmouth,2016,1,0,0
 Iona,2016,1,0,0
-Savannah State,2016,1,0,0
+Savannah St.,2016,1,0,0
 Bradley,2016,1,0,0
-Alabama State,2016,1,0,0
+Alabama St.,2016,1,0,0
 Hofstra,2016,1,0,0
 Holy Cross,2016,1,0,0
 Siena,2016,1,0,0
 Nevada,2016,1,0,0
-Indiana State,2016,1,0,0
-Middle Tennessee State,2016,1,0,0
-Missouri State,2016,1,0,0
-Morehead State,2016,1,0,0
-Weber State,2016,1,0,0
+Indiana St.,2016,1,0,0
+Middle Tennessee,2016,1,0,0
+Missouri St.,2016,1,0,0
+Morehead St.,2016,1,0,0
+Weber St.,2016,1,0,0
 Eastern Illinois,2016,1,0,0
 Maine,2016,1,0,0
 Mercer,2016,1,0,0
-Georgia State,2016,1,0,0
-Appalachian State,2016,1,0,0
-Kent State,2016,1,0,0
+Georgia St.,2016,1,0,0
+Appalachian St.,2016,1,0,0
+Kent St.,2016,1,0,0
 Stephen F. Austin,2016,1,0,0
-Illinois State,2016,1,0,0
+Illinois St.,2016,1,0,0
 Florida Atlantic,2016,1,0,0
 Navy,2016,0,0,0
 UC Santa Barbara,2016,0,0,0
@@ -657,21 +657,21 @@ Delaware,2016,0,0,0
 Manhattan,2016,0,0,0
 Duke,2017,1,1,4
 Kentucky,2017,0,0,5
-Michigan State,2017,0,2,2
-Florida State,2017,2,2,2
-NC State,2017,1,3,1
+Michigan St.,2017,0,2,2
+Florida St.,2017,2,2,2
+North Carolina St.,2017,1,3,1
 Texas,2017,0,2,2
 Virginia,2017,0,4,0
 Connecticut,2017,1,4,0
 Arizona,2017,1,1,2
-Mississippi State,2017,1,6,0
+Mississippi St.,2017,1,6,0
 UCLA,2017,0,1,2
 Auburn,2017,1,2,1
 Maryland,2017,1,3,0
 North Carolina,2017,0,2,1
-Miami,2017,2,0,2
+Miami FL,2017,2,0,2
 Kansas,2017,0,2,1
-Arizona State,2017,1,3,0
+Arizona St.,2017,1,3,0
 Syracuse,2017,0,3,0
 Texas A&M,2017,1,3,0
 Gonzaga,2017,2,3,0
@@ -680,7 +680,7 @@ Marquette,2017,0,3,0
 Indiana,2017,3,2,0
 St. John's,2017,0,3,0
 Harvard,2017,4,2,0
-Penn State,2017,2,2,0
+Penn St.,2017,2,2,0
 Oklahoma,2017,2,2,0
 Xavier,2017,1,2,0
 Arkansas,2017,3,3,0
@@ -691,12 +691,12 @@ Washington,2017,2,0,1
 USC,2017,3,1,0
 Georgia,2017,2,1,0
 BYU,2017,1,2,0
-Iowa State,2017,3,1,0
+Iowa St.,2017,3,1,0
 Utah,2017,4,1,0
 Iowa,2017,4,1,0
 Notre Dame,2017,2,1,0
 Baylor,2017,2,1,0
-Ohio State,2017,3,1,0
+Ohio St.,2017,3,1,0
 VCU,2017,2,1,0
 Creighton,2017,2,1,0
 Villanova,2017,1,0,1
@@ -706,16 +706,16 @@ TCU,2017,2,1,0
 Tennessee,2017,6,0,0
 Alabama,2017,0,2,0
 LSU,2017,5,0,0
-San Diego State,2017,0,2,0
-Oregon State,2017,2,1,0
-Oklahoma State,2017,4,0,0
+San Diego St.,2017,0,2,0
+Oregon St.,2017,2,1,0
+Oklahoma St.,2017,4,0,0
 Nebraska,2017,3,0,0
 Stanford,2017,0,2,0
 Nevada,2017,3,0,0
 Northwestern,2017,3,0,0
 UNLV,2017,1,1,0
 Seton Hall,2017,1,1,0
-Ole Miss,2017,5,0,0
+Mississippi,2017,5,0,0
 Wake Forest,2017,4,0,0
 Cincinnati,2017,1,1,0
 SMU,2017,3,0,0
@@ -725,45 +725,45 @@ West Virginia,2017,3,0,0
 Missouri,2017,4,0,0
 Florida,2017,3,0,0
 Vanderbilt,2017,1,1,0
-Kansas State,2017,3,0,0
-Wichita State,2017,3,0,0
+Kansas St.,2017,3,0,0
+Wichita St.,2017,3,0,0
 Dayton,2017,1,1,0
 Georgia Tech,2017,3,0,0
 DePaul,2017,5,0,0
-Utah State,2017,3,0,0
+Utah St.,2017,3,0,0
 Colorado,2017,2,0,0
 George Washington,2017,4,0,0
 Temple,2017,3,0,0
 Rhode Island,2017,4,0,0
 UC Santa Barbara,2017,1,1,0
-Washington State,2017,3,0,0
+Washington St.,2017,3,0,0
 Rice,2017,3,0,0
 Boston College,2017,4,0,0
 New Mexico,2017,3,0,0
 Tulane,2017,2,0,0
-Fresno State,2017,1,1,0
+Fresno St.,2017,1,1,0
 Virginia Tech,2017,3,0,0
-St. Mary's,2017,2,0,0
-USF,2017,3,0,0
+Saint Mary's,2017,2,0,0
+South Florida,2017,3,0,0
 Richmond,2017,2,0,0
 Louisville,2017,0,0,1
-Georgia State,2017,2,0,0
+Georgia St.,2017,2,0,0
 Yale,2017,2,0,0
 South Alabama,2017,3,0,0
 Memphis,2017,2,0,0
 California,2017,0,1,0
 Buffalo,2017,2,0,0
-Illinois-Chicago,2017,2,0,0
+Illinois Chicago,2017,2,0,0
 Eastern Kentucky,2017,2,0,0
 Rutgers,2017,2,0,0
 Wisconsin,2017,2,0,0
 Monmouth,2017,2,0,0
 Purdue,2017,0,1,0
 Illinois,2017,1,0,0
-Long Beach State,2017,1,0,0
+Long Beach St.,2017,1,0,0
 Pittsburgh,2017,1,0,0
 Georgetown,2017,1,0,0
-Cal State Northridge,2017,1,0,0
+Cal St. Northridge,2017,1,0,0
 Charlotte,2017,1,0,0
 Clemson,2017,1,0,0
 Old Dominion,2017,1,0,0
@@ -771,31 +771,31 @@ UCF,2017,1,0,0
 Tulsa,2017,1,0,0
 La Salle,2017,1,0,0
 Louisiana Tech,2017,1,0,0
-New Mexico State,2017,1,0,0
-Missouri State,2017,1,0,0
-Loyola (Chi),2017,1,0,0
-Boise State,2017,1,0,0
-Pennsylvania,2017,1,0,0
+New Mexico St.,2017,1,0,0
+Missouri St.,2017,1,0,0
+Loyola Chicago,2017,1,0,0
+Boise St.,2017,1,0,0
+Penn,2017,1,0,0
 FIU,2017,1,0,0
 Saint Joseph's,2017,1,0,0
-Murray State,2017,1,0,0
+Murray St.,2017,1,0,0
 Toledo,2017,1,0,0
 Houston,2017,1,0,0
 Texas Tech,2017,1,0,0
 UNC Wilmington,2017,1,0,0
-Ball State,2017,1,0,0
+Ball St.,2017,1,0,0
 Northern Iowa,2017,1,0,0
 Fordham,2017,1,0,0
 Rider,2017,1,0,0
 UTEP,2017,1,0,0
-Wisconsin-Green Bay,2017,1,0,0
-Weber State,2017,1,0,0
+Green Bay,2017,1,0,0
+Weber St.,2017,1,0,0
 Northern Kentucky,2017,1,0,0
 Vermont,2017,1,0,0
-Southeast Missouri State,2017,1,0,0
+Southeast Missouri St.,2017,1,0,0
 St. Bonaventure,2017,1,0,0
 Southern Miss,2017,0,0,0
-Mount St. Mary's,2017,0,0,0
+Saint Mary's,2017,0,0,0
 Duke,2018,1,2,4
 Kentucky,2018,0,2,6
 Arizona,2018,0,3,2
@@ -805,9 +805,9 @@ Texas,2018,0,4,1
 Louisville,2018,0,4,1
 Alabama,2018,2,2,1
 Kansas,2018,0,2,1
-Miami,2018,1,2,1
+Miami FL,2018,1,2,1
 Xavier,2018,3,2,0
-Florida State,2018,3,2,0
+Florida St.,2018,3,2,0
 Oregon,2018,1,2,1
 Stanford,2018,2,2,0
 Western Kentucky,2018,2,1,1
@@ -818,8 +818,8 @@ North Carolina,2018,3,2,0
 Florida,2018,1,3,0
 Providence,2018,1,2,0
 Auburn,2018,1,2,0
-Arizona State,2018,1,2,0
-Ohio State,2018,1,2,0
+Arizona St.,2018,1,2,0
+Ohio St.,2018,1,2,0
 Creighton,2018,0,3,0
 Colorado,2018,2,2,0
 Washington,2018,1,2,0
@@ -837,21 +837,21 @@ Syracuse,2018,3,1,0
 Texas Tech,2018,6,1,0
 Wake Forest,2018,2,1,0
 Georgia,2018,3,1,0
-Oregon State,2018,2,1,0
+Oregon St.,2018,2,1,0
 Michigan,2018,1,2,0
 Georgetown,2018,3,1,0
 Seton Hall,2018,3,1,0
 Clemson,2018,3,1,0
 Utah,2018,4,1,0
 St. John's,2018,2,1,0
-Michigan State,2018,0,1,1
+Michigan St.,2018,0,1,1
 Memphis,2018,8,0,0
 Pittsburgh,2018,7,0,0
 Vanderbilt,2018,2,1,0
 Maryland,2018,0,2,0
 Tennessee,2018,3,1,0
 California,2018,8,0,0
-Iowa State,2018,0,2,0
+Iowa St.,2018,0,2,0
 Iowa,2018,2,1,0
 Cincinnati,2018,4,1,0
 Marquette,2018,4,0,0
@@ -860,57 +860,57 @@ SMU,2018,4,0,0
 Butler,2018,4,0,0
 Rutgers,2018,4,0,0
 South Carolina,2018,5,0,0
-Mississippi State,2018,1,1,0
+Mississippi St.,2018,1,1,0
 West Virginia,2018,4,0,0
 Houston,2018,5,0,0
 Temple,2018,4,0,0
 UTEP,2018,4,0,0
-Ole Miss,2018,1,1,0
+Mississippi,2018,1,1,0
 Minnesota,2018,1,1,0
 Tulsa,2018,3,0,0
 Boston College,2018,4,0,0
 VCU,2018,4,0,0
 Nebraska,2018,1,1,0
-Middle Tennessee State,2018,3,0,0
+Middle Tennessee,2018,3,0,0
 Stephen F. Austin,2018,3,0,0
 Georgia Tech,2018,3,0,0
-NC State,2018,1,1,0
+North Carolina St.,2018,1,1,0
 UCF,2018,3,0,0
 Baylor,2018,1,1,0
 DePaul,2018,3,0,0
-San Diego State,2018,3,0,0
+San Diego St.,2018,3,0,0
 Connecticut,2018,2,0,0
 South Alabama,2018,3,0,0
-Oklahoma State,2018,1,1,0
-Utah State,2018,2,0,0
-Georgia State,2018,3,0,0
+Oklahoma St.,2018,1,1,0
+Utah St.,2018,2,0,0
+Georgia St.,2018,3,0,0
 Buffalo,2018,1,1,0
 UNC Wilmington,2018,2,0,0
 Dayton,2018,2,0,0
-Kansas State,2018,3,0,0
+Kansas St.,2018,3,0,0
 North Texas,2018,2,0,0
-Murray State,2018,2,0,0
+Murray St.,2018,2,0,0
 Lehigh,2018,2,0,0
-Morehead State,2018,2,0,0
-USF,2018,2,0,0
+Morehead St.,2018,2,0,0
+South Florida,2018,2,0,0
 Virginia,2018,2,0,0
 Tulane,2018,2,0,0
-Illinois State,2018,2,0,0
+Illinois St.,2018,2,0,0
 Nevada,2018,2,0,0
 Florida Gulf Coast,2018,2,0,0
-Loyola (Chi),2018,2,0,0
-Ball State,2018,2,0,0
-South Dakota State,2018,2,0,0
+Loyola Chicago,2018,2,0,0
+Ball St.,2018,2,0,0
+South Dakota St.,2018,2,0,0
 Notre Dame,2018,0,1,0
 UAB,2018,2,0,0
 Belmont,2018,2,0,0
-Missouri State,2018,1,0,0
+Missouri St.,2018,1,0,0
 Old Dominion,2018,2,0,0
 La Salle,2018,2,0,0
-UT Martin,2018,2,0,0
+Tennessee Martin,2018,2,0,0
 Wyoming,2018,2,0,0
 Richmond,2018,2,0,0
-Penn State,2018,1,0,0
+Penn St.,2018,1,0,0
 Davidson,2018,0,1,0
 Pepperdine,2018,2,0,0
 Princeton,2018,2,0,0
@@ -918,35 +918,35 @@ Gonzaga,2018,0,1,0
 Nebraska Omaha,2018,2,0,0
 George Mason,2018,1,0,0
 Northeastern,2018,1,0,0
-Wichita State,2018,1,0,0
+Wichita St.,2018,1,0,0
 UTSA,2018,1,0,0
 Harvard,2018,1,0,0
-Washington State,2018,1,0,0
-Indiana State,2018,1,0,0
-Jacksonville State,2018,1,0,0
-New Mexico State,2018,1,0,0
-Arkansas-Little Rock,2018,1,0,0
+Washington St.,2018,1,0,0
+Indiana St.,2018,1,0,0
+Jacksonville St.,2018,1,0,0
+New Mexico St.,2018,1,0,0
+Little Rock,2018,1,0,0
 St. Bonaventure,2018,1,0,0
-Boise State,2018,1,0,0
+Boise St.,2018,1,0,0
 Rhode Island,2018,1,0,0
-Tennessee State,2018,1,0,0
-Colorado State,2018,1,0,0
+Tennessee St.,2018,1,0,0
+Colorado St.,2018,1,0,0
 Boston University,2018,1,0,0
-Arkansas State,2018,1,0,0
+Arkansas St.,2018,1,0,0
 Southern Utah,2018,1,0,0
-UT-Arlington,2018,1,0,0
+UT Arlington,2018,1,0,0
 Utah Valley,2018,1,0,0
-Wisconsin-Green Bay,2018,1,0,0
+Green Bay,2018,1,0,0
 FIU,2018,1,0,0
 Yale,2018,1,0,0
-St. Mary's,2018,1,0,0
+Saint Mary's,2018,1,0,0
 Houston Baptist,2018,1,0,0
-Weber State,2018,1,0,0
+Weber St.,2018,1,0,0
 Delaware,2018,1,0,0
-Louisiana,2018,1,0,0
+Louisiana Lafayette,2018,1,0,0
 Massachusetts,2018,1,0,0
 High Point,2018,1,0,0
-Pennsylvania,2018,1,0,0
+Penn,2018,1,0,0
 East Carolina,2018,1,0,0
 Oral Roberts,2018,1,0,0
 BYU,2018,1,0,0
@@ -964,10 +964,10 @@ Indiana,2019,1,3,1
 Michigan,2019,1,4,0
 Vanderbilt,2019,0,1,2
 North Carolina,2019,0,1,2
-Arizona State,2019,1,3,0
+Arizona St.,2019,1,3,0
 Notre Dame,2019,1,4,0
-Mississippi State,2019,1,3,0
-Michigan State,2019,2,3,0
+Mississippi St.,2019,1,3,0
+Michigan St.,2019,2,3,0
 USC,2019,0,2,1
 Florida,2019,0,2,1
 Stanford,2019,3,2,0
@@ -977,8 +977,8 @@ Wake Forest,2019,4,1,1
 Alabama,2019,2,2,0
 Illinois,2019,5,2,0
 West Virginia,2019,4,2,0
-Ohio State,2019,2,2,0
-Iowa State,2019,2,2,0
+Ohio St.,2019,2,2,0
+Iowa St.,2019,2,2,0
 Western Kentucky,2019,1,1,1
 Memphis,2019,4,2,0
 Georgetown,2019,2,2,0
@@ -989,7 +989,7 @@ TCU,2019,3,1,0
 Baylor,2019,1,2,0
 Georgia,2019,2,2,0
 Arkansas,2019,7,0,0
-NC State,2019,2,1,0
+North Carolina St.,2019,2,1,0
 Utah,2019,4,2,0
 Washington,2019,4,1,0
 Creighton,2019,2,1,0
@@ -1003,58 +1003,58 @@ Purdue,2019,3,0,0
 Rhode Island,2019,2,1,0
 Rutgers,2019,3,1,0
 Nevada,2019,2,0,1
-Ole Miss,2019,5,0,0
+Mississippi,2019,5,0,0
 Virginia Tech,2019,2,1,0
 South Carolina,2019,5,0,0
 UTEP,2019,3,1,0
-Penn State,2019,3,0,0
+Penn St.,2019,3,0,0
 Saint Louis,2019,2,1,0
 Missouri,2019,2,1,0
-Oklahoma State,2019,4,0,0
+Oklahoma St.,2019,4,0,0
 Cincinnati,2019,4,0,0
 Clemson,2019,3,0,0
 DePaul,2019,3,0,0
-Wichita State,2019,7,0,0
+Wichita St.,2019,7,0,0
 Virginia,2019,2,1,0
 Xavier,2019,3,0,0
 Iowa,2019,1,1,0
 UC Santa Barbara,2019,3,0,0
 Gonzaga,2019,1,1,0
-USF,2019,4,0,0
+South Florida,2019,4,0,0
 Boston College,2019,1,1,0
-San Diego State,2019,3,0,0
+San Diego St.,2019,3,0,0
 UNLV,2019,2,0,0
 Wisconsin,2019,3,0,0
 Tulane,2019,3,0,0
 UAB,2019,3,0,0
 Buffalo,2019,1,1,0
-Boise State,2019,3,0,0
+Boise St.,2019,3,0,0
 Rice,2019,3,0,0
 Dayton,2019,1,1,0
 Duquesne,2019,4,0,0
 Old Dominion,2019,3,0,0
 Seattle,2019,3,0,0
 Nebraska,2019,3,0,0
-Oregon State,2019,3,0,0
-Loyola (Chi),2019,3,0,0
+Oregon St.,2019,3,0,0
+Loyola Chicago,2019,3,0,0
 Houston,2019,1,1,0
-Weber State,2019,3,0,0
+Weber St.,2019,3,0,0
 Seton Hall,2019,2,0,0
 Colorado,2019,3,0,0
 Massachusetts,2019,2,0,0
-Fresno State,2019,2,0,0
+Fresno St.,2019,2,0,0
 Chattanooga,2019,2,0,0
 VCU,2019,2,0,0
 SMU,2019,2,0,0
-San Jose State,2019,2,0,0
-Pennsylvania,2019,2,0,0
-Georgia State,2019,2,0,0
-Long Beach State,2019,2,0,0
+San Jose St.,2019,2,0,0
+Penn,2019,2,0,0
+Georgia St.,2019,2,0,0
+Long Beach St.,2019,2,0,0
 Texas A&M,2019,2,0,0
 Northern Illinois,2019,2,0,0
-Wisconsin-Milwaukee,2019,2,0,0
+Milwaukee,2019,2,0,0
 Florida Gulf Coast,2019,2,0,0
-Kansas State,2019,2,0,0
+Kansas St.,2019,2,0,0
 Georgia Southern,2019,2,0,0
 Yale,2019,2,0,0
 Butler,2019,2,0,0
@@ -1065,23 +1065,23 @@ Central Arkansas,2019,2,0,0
 East Carolina,2019,2,0,0
 Northern Iowa,2019,0,1,0
 Dartmouth,2019,2,0,0
-St. Mary's,2019,0,1,0
+Saint Mary's,2019,0,1,0
 Princeton,2019,0,1,0
 Boston University,2019,2,0,0
 Tennessee,2019,0,1,0
 Oklahoma,2019,1,0,0
 Connecticut,2019,1,0,0
 BYU,2019,1,0,0
-Cal State Northridge,2019,1,0,0
-Colorado State,2019,1,0,0
-Florida State,2019,1,0,0
+Cal St. Northridge,2019,1,0,0
+Colorado St.,2019,1,0,0
+Florida St.,2019,1,0,0
 New Mexico,2019,1,0,0
-Arkansas-Little Rock,2019,1,0,0
-New Mexico State,2019,1,0,0
+Little Rock,2019,1,0,0
+New Mexico St.,2019,1,0,0
 Fordham,2019,1,0,0
 Bucknell,2019,0,0,0
 Coastal Carolina,2019,1,0,0
-Tennessee State,2019,1,0,0
+Tennessee St.,2019,1,0,0
 Saint Peter's,2019,1,0,0
 Pepperdine,2019,1,0,0
 UNC Greensboro,2019,1,0,0
@@ -1090,18 +1090,18 @@ Towson,2019,1,0,0
 Temple,2019,1,0,0
 Fairfield,2019,1,0,0
 Bradley,2019,1,0,0
-Cal State Fullerton,2019,1,0,0
+Cal St. Fullerton,2019,1,0,0
 Campbell,2019,1,0,0
 Columbia,2019,1,0,0
 Southern Illinois,2019,1,0,0
 Oral Roberts,2019,1,0,0
 Western Michigan,2019,1,0,0
 Saint Joseph's,2019,1,0,0
-Murray State,2019,1,0,0
+Murray St.,2019,1,0,0
 William & Mary,2019,1,0,0
 Northern Kentucky,2019,1,0,0
 Southeastern Louisiana,2019,1,0,0
-Washington State,2019,1,0,0
+Washington St.,2019,1,0,0
 UCF,2019,1,0,0
 Denver,2019,1,0,0
 Lafayette,2019,1,0,0
@@ -1110,13 +1110,13 @@ Drake,2019,1,0,0
 Siena,2019,1,0,0
 Belmont,2019,1,0,0
 Stetson,2019,1,0,0
-Loyola Maryland,2019,1,0,0
+Loyola MD,2019,1,0,0
 George Mason,2019,1,0,0
-Sam Houston,2019,1,0,0
+Sam Houston St.,2019,1,0,0
 Vermont,2019,1,0,0
 Furman,2019,0,0,0
 Marshall,2019,0,0,0
-Youngstown State,2019,0,0,0
+Youngstown St.,2019,0,0,0
 Louisville,2019,0,0,0
 Memphis,2020,0,5,2
 Kentucky,2020,0,2,3
@@ -1131,35 +1131,35 @@ Washington,2020,1,1,2
 Georgia,2020,2,4,1
 Louisville,2020,2,3,1
 Gonzaga,2020,2,4,0
-Ohio State,2020,1,3,0
+Ohio St.,2020,1,3,0
 Kansas,2020,2,3,0
 Texas Tech,2020,4,2,0
 Texas,2020,0,3,0
 Connecticut,2020,1,3,0
-Florida State,2020,3,1,1
+Florida St.,2020,3,1,1
 Auburn,2020,4,3,0
 Alabama,2020,2,3,0
 West Virginia,2020,3,2,0
 Virginia,2020,2,2,0
-Oklahoma State,2020,3,2,0
+Oklahoma St.,2020,3,2,0
 Oklahoma,2020,6,1,0
-Michigan State,2020,1,2,0
+Michigan St.,2020,1,2,0
 Xavier,2020,3,2,0
 Tennessee,2020,4,0,1
 Maryland,2020,4,1,0
 TCU,2020,4,1,0
-Miami,2020,1,2,0
+Miami FL,2020,1,2,0
 LSU,2020,3,0,1
 Syracuse,2020,3,2,0
 DePaul,2020,3,1,0
 Texas A&M,2020,7,0,0
-NC State,2020,2,1,0
+North Carolina St.,2020,2,1,0
 Minnesota,2020,3,1,0
 Harvard,2020,4,1,0
-Arizona State,2020,5,1,0
+Arizona St.,2020,5,1,0
 Missouri,2020,2,1,0
-Wichita State,2020,6,0,0
-Ole Miss,2020,5,1,0
+Wichita St.,2020,6,0,0
+Mississippi,2020,5,1,0
 Clemson,2020,2,1,0
 Cincinnati,2020,2,1,0
 South Carolina,2020,4,0,0
@@ -1171,44 +1171,44 @@ Vanderbilt,2020,4,0,0
 VCU,2020,2,1,0
 Nebraska,2020,6,0,0
 Indiana,2020,1,1,0
-Kansas State,2020,5,0,0
+Kansas St.,2020,5,0,0
 Georgetown,2020,4,0,0
-Iowa State,2020,4,0,0
+Iowa St.,2020,4,0,0
 Northwestern,2020,2,1,0
 Purdue,2020,3,0,0
 Stanford,2020,2,1,0
-Mississippi State,2020,2,1,0
-Loyola Maryland,2020,1,1,0
+Mississippi St.,2020,2,1,0
+Loyola MD,2020,1,1,0
 Houston,2020,3,0,0
 Wake Forest,2020,4,0,0
 Michigan,2020,0,2,0
-Utah State,2020,4,0,0
+Utah St.,2020,4,0,0
 California,2020,3,0,0
 Boston College,2020,4,0,0
-Missouri State,2020,3,0,0
+Missouri St.,2020,3,0,0
 Illinois,2020,1,1,0
 SMU,2020,5,0,0
-Oregon State,2020,6,0,0
+Oregon St.,2020,6,0,0
 Charlotte,2020,4,0,0
 Iowa,2020,1,1,0
 Western Kentucky,2020,3,0,0
 Marquette,2020,1,1,0
-Fresno State,2020,4,0,0
+Fresno St.,2020,4,0,0
 UTSA,2020,4,0,0
 UCLA,2020,1,1,0
 East Carolina,2020,4,0,0
 Butler,2020,1,1,0
-Colorado State,2020,4,0,0
+Colorado St.,2020,4,0,0
 Saint Louis,2020,3,0,0
 Rhode Island,2020,3,0,0
-Loyola (Chi),2020,3,0,0
-Penn State,2020,3,0,0
-Long Beach State,2020,2,0,0
+Loyola Chicago,2020,3,0,0
+Penn St.,2020,3,0,0
+Long Beach St.,2020,2,0,0
 La Salle,2020,3,0,0
 UNC Greensboro,2020,3,0,0
 UCF,2020,4,0,0
 Tulsa,2020,3,0,0
-Middle Tennessee State,2020,3,0,0
+Middle Tennessee,2020,3,0,0
 New Mexico,2020,2,0,0
 Florida Atlantic,2020,3,0,0
 Rice,2020,3,0,0
@@ -1216,25 +1216,25 @@ Marshall,2020,3,0,0
 Louisiana Tech,2020,3,0,0
 Ohio,2020,2,0,0
 Temple,2020,2,0,0
-Washington State,2020,2,0,0
+Washington St.,2020,2,0,0
 Tulane,2020,3,0,0
 Seton Hall,2020,2,0,0
-Miami (OH),2020,2,0,0
-Appalachian State,2020,2,0,0
+Miami OH,2020,2,0,0
+Appalachian St.,2020,2,0,0
 Dayton,2020,2,0,0
 Creighton,2020,2,0,0
-Georgia State,2020,2,0,0
+Georgia St.,2020,2,0,0
 Drexel,2020,2,0,0
 Coastal Carolina,2020,2,0,0
 San Diego,2020,2,0,0
 Pacific,2020,2,0,0
-USF,2020,2,0,0
+South Florida,2020,2,0,0
 Wyoming,2020,2,0,0
 South Alabama,2020,2,0,0
-Indiana State,2020,2,0,0
+Indiana St.,2020,2,0,0
 FIU,2020,2,0,0
 BYU,2020,2,0,0
-Ball State,2020,2,0,0
+Ball St.,2020,2,0,0
 Toledo,2020,2,0,0
 UAB,2020,2,0,0
 Providence,2020,0,1,0
@@ -1246,42 +1246,42 @@ Rutgers,2020,1,0,0
 Davidson,2020,1,0,0
 Baylor,2020,1,0,0
 Colorado,2020,1,0,0
-Gardner-Webb,2020,1,0,0
+Gardner Webb,2020,1,0,0
 George Mason,2020,1,0,0
-New Mexico State,2020,1,0,0
+New Mexico St.,2020,1,0,0
 Wisconsin,2020,1,0,0
-Pennsylvania,2020,1,0,0
+Penn,2020,1,0,0
 Eastern Kentucky,2020,1,0,0
 Nevada,2020,1,0,0
 UNLV,2020,1,0,0
 Air Force,2020,1,0,0
-Cal State Fullerton,2020,1,0,0
+Cal St. Fullerton,2020,1,0,0
 Denver,2020,1,0,0
 UC Santa Barbara,2020,1,0,0
 Buffalo,2020,1,0,0
 Pepperdine,2020,1,0,0
 Duquesne,2020,1,0,0
 St. Bonaventure,2020,1,0,0
-San Diego State,2020,1,0,0
+San Diego St.,2020,1,0,0
 College of Charleston,2020,1,0,0
-Louisiana,2020,1,0,0
+Louisiana Lafayette,2020,1,0,0
 Vermont,2020,1,0,0
-Kent State,2020,1,0,0
-East Tennessee State,2020,1,0,0
+Kent St.,2020,1,0,0
+East Tennessee St.,2020,1,0,0
 North Texas,2020,1,0,0
 George Washington,2020,1,0,0
 Liberty,2020,1,0,0
 Stephen F. Austin,2020,1,0,0
-Wisconsin-Green Bay,2020,1,0,0
+Green Bay,2020,1,0,0
 Arkansas,2020,1,0,0
 Fordham,2020,1,0,0
 St. John's,2020,1,0,0
 Troy,2020,1,0,0
-San Jose State,2020,1,0,0
+San Jose St.,2020,1,0,0
 Binghamton,2020,1,0,0
-South Carolina Upstate,2020,1,0,0
+USC Upstate,2020,1,0,0
 Rider,2020,1,0,0
-North Dakota State,2020,1,0,0
+North Dakota St.,2020,1,0,0
 Albany,2020,1,0,0
 UTEP,2020,1,0,0
 Brown,2020,1,0,0
@@ -1289,7 +1289,7 @@ Northeastern,2020,1,0,0
 North Dakota,2020,1,0,0
 Quinnipiac,2020,1,0,0
 Princeton,2020,1,0,0
-Kennesaw State,2020,0,0,0
+Kennesaw St.,2020,0,0,0
 Northern Illinois,2020,0,0,0
 Western Michigan,2020,0,0,0
 Bowling Green,2020,0,0,0
@@ -1300,12 +1300,12 @@ LSU,2021,2,3,1
 Tennessee,2021,1,1,2
 Gonzaga,2021,0,3,1
 Arizona,2021,1,5,0
-Arizona State,2021,1,2,1
+Arizona St.,2021,1,2,1
 Arkansas,2021,0,4,0
 Auburn,2021,3,1,1
 Texas Tech,2021,2,3,0
 Alabama,2021,2,3,0
-Oklahoma State,2021,3,1,1
+Oklahoma St.,2021,3,1,1
 Michigan,2021,1,3,0
 Indiana,2021,2,1,1
 Illinois,2021,2,2,0
@@ -1319,53 +1319,53 @@ Kansas,2021,3,0,1
 Memphis,2021,1,1,1
 Connecticut,2021,1,2,0
 Xavier,2021,1,2,0
-NC State,2021,4,1,0
+North Carolina St.,2021,4,1,0
 Louisville,2021,1,3,0
 USC,2021,1,1,1
 Pittsburgh,2021,3,2,0
 Baylor,2021,1,2,0
 Rutgers,2021,4,1,0
-Iowa State,2021,3,1,0
+Iowa St.,2021,3,1,0
 Wisconsin,2021,4,1,0
 Creighton,2021,1,2,0
 Purdue,2021,1,2,0
-Kansas State,2021,6,1,0
-Washington State,2021,5,1,0
-Mississippi State,2021,4,1,0
+Kansas St.,2021,6,1,0
+Washington St.,2021,5,1,0
+Mississippi St.,2021,4,1,0
 Virginia Tech,2021,1,2,0
 Florida,2021,2,1,0
 Syracuse,2021,2,1,0
 DePaul,2021,2,1,0
-Florida State,2021,2,0,1
+Florida St.,2021,2,0,1
 Colorado,2021,3,1,0
 Butler,2021,5,0,0
-Ohio State,2021,2,1,0
+Ohio St.,2021,2,1,0
 Cincinnati,2021,5,0,0
 Oregon,2021,0,2,0
 Utah,2021,3,1,0
-Michigan State,2021,0,2,0
-Miami,2021,0,2,0
+Michigan St.,2021,0,2,0
+Miami FL,2021,0,2,0
 Houston,2021,2,1,0
 Minnesota,2021,3,0,0
 UCLA,2021,0,2,0
 West Virginia,2021,2,1,0
 Wake Forest,2021,2,1,0
 TCU,2021,3,0,0
-St. Mary's,2021,2,1,0
+Saint Mary's,2021,2,1,0
 Georgetown,2021,2,1,0
 Maryland,2021,2,1,0
 UNLV,2021,4,0,0
 Iowa,2021,5,0,0
 VCU,2021,4,0,0
 Vanderbilt,2021,3,0,0
-Kennesaw State,2021,3,0,0
+Kennesaw St.,2021,3,0,0
 Nebraska,2021,4,0,0
 St. John's,2021,5,0,0
-Ole Miss,2021,1,1,0
+Mississippi,2021,1,1,0
 Massachusetts,2021,4,0,0
 Davidson,2021,2,0,0
 South Alabama,2021,3,0,0
-Wichita State,2021,5,0,0
+Wichita St.,2021,5,0,0
 Georgia Tech,2021,3,0,0
 Elon,2021,3,0,0
 New Mexico,2021,3,0,0
@@ -1373,15 +1373,15 @@ Charlotte,2021,4,0,0
 Notre Dame,2021,3,0,0
 Harvard,2021,3,0,0
 BYU,2021,3,0,0
-San Diego State,2021,3,0,0
-Penn State,2021,4,0,0
+San Diego St.,2021,3,0,0
+Penn St.,2021,4,0,0
 Temple,2021,3,0,0
-Georgia State,2021,3,0,0
+Georgia St.,2021,3,0,0
 Pepperdine,2021,1,1,0
 Boston College,2021,1,1,0
 California,2021,1,1,0
 Northwestern,2021,2,0,0
-Fresno State,2021,2,0,0
+Fresno St.,2021,2,0,0
 Oklahoma,2021,2,0,0
 Oral Roberts,2021,2,0,0
 Seton Hall,2021,2,0,0
@@ -1391,36 +1391,36 @@ UAB,2021,2,0,0
 UCF,2021,2,0,0
 Tulane,2021,2,0,0
 South Carolina,2021,2,0,0
-Oregon State,2021,2,0,0
+Oregon St.,2021,2,0,0
 Texas,2021,0,0,1
-Appalachian State,2021,2,0,0
+Appalachian St.,2021,2,0,0
 Marshall,2021,2,0,0
 Howard,2021,0,0,1
 Rhode Island,2021,2,0,0
 Villanova,2021,0,1,0
 Yale,2021,2,0,0
-Tennessee State,2021,1,0,0
-USF,2021,0,1,0
+Tennessee St.,2021,1,0,0
+South Florida,2021,0,1,0
 UC Irvine,2021,1,0,0
 Iona,2021,1,0,0
 La Salle,2021,1,0,0
 Troy,2021,1,0,0
 Rice,2021,1,0,0
-Utah State,2021,1,0,0
+Utah St.,2021,1,0,0
 East Carolina,2021,1,0,0
 Lipscomb,2021,1,0,0
 Duquesne,2021,1,0,0
 Northern Arizona,2021,1,0,0
 Ohio,2021,1,0,0
 UNC Asheville,2021,1,0,0
-Colorado State,2021,1,0,0
+Colorado St.,2021,1,0,0
 Western Illinois,2021,1,0,0
 Richmond,2021,1,0,0
 Cal Poly,2021,1,0,0
-San Jose State,2021,1,0,0
-Long Beach State,2021,1,0,0
+San Jose St.,2021,1,0,0
+Long Beach St.,2021,1,0,0
 College of Charleston,2021,1,0,0
-Morgan State,2021,1,0,0
+Morgan St.,2021,1,0,0
 Florida Gulf Coast,2021,1,0,0
 Akron,2021,1,0,0
 Buffalo,2021,1,0,0
@@ -1431,23 +1431,23 @@ Tulsa,2021,1,0,0
 Eastern Kentucky,2021,1,0,0
 Princeton,2021,1,0,0
 Nevada,2021,1,0,0
-Cleveland State,2021,1,0,0
+Cleveland St.,2021,1,0,0
 Bowling Green,2021,1,0,0
-Boise State,2021,1,0,0
+Boise St.,2021,1,0,0
 Wofford,2021,1,0,0
 Bucknell,2021,1,0,0
 SIU Edwardsville,2021,1,0,0
 Liberty,2021,1,0,0
 Western Michigan,2021,1,0,0
-Gardner-Webb,2021,1,0,0
+Gardner Webb,2021,1,0,0
 Washington,2021,1,0,0
 James Madison,2021,1,0,0
-Missouri State,2021,1,0,0
-Loyola (Chi),2021,1,0,0
+Missouri St.,2021,1,0,0
+Loyola Chicago,2021,1,0,0
 Missouri,2021,1,0,0
 Bradley,2021,1,0,0
 Old Dominion,2021,0,0,0
-Wright State,2021,0,0,0
+Wright St.,2021,0,0,0
 Northern Iowa,2021,0,0,0
 UC Riverside,2021,0,0,0
 Memphis,2022,2,2,2
@@ -1458,10 +1458,10 @@ Tennessee,2022,3,2,2
 Duke,2022,0,1,3
 LSU,2022,2,2,1
 Creighton,2022,1,4,0
-Florida State,2022,1,2,1
+Florida St.,2022,1,2,1
 Connecticut,2022,0,4,0
 Kansas,2022,0,4,0
-Michigan State,2022,0,2,1
+Michigan St.,2022,0,2,1
 Colorado,2022,2,3,0
 Alabama,2022,0,2,1
 Baylor,2022,0,2,1
@@ -1473,14 +1473,14 @@ Stanford,2022,1,1,1
 Dayton,2022,3,1,0
 Villanova,2022,1,2,0
 Illinois,2022,0,3,0
-Miami,2022,1,2,0
-NC State,2022,1,2,0
+Miami FL,2022,1,2,0
+North Carolina St.,2022,1,2,0
 Texas A&M,2022,1,2,0
-Arizona State,2022,4,1,0
+Arizona St.,2022,4,1,0
 South Carolina,2022,3,1,0
 Georgia Tech,2022,2,1,0
 Seton Hall,2022,2,1,0
-Ole Miss,2022,3,1,0
+Mississippi,2022,3,1,0
 Wisconsin,2022,4,0,0
 SMU,2022,3,1,0
 UCLA,2022,0,1,1
@@ -1489,7 +1489,7 @@ Oklahoma,2022,3,1,0
 Indiana,2022,0,2,0
 Purdue,2022,0,2,0
 USC,2022,2,1,0
-Mississippi State,2022,2,1,0
+Mississippi St.,2022,2,1,0
 North Carolina,2022,0,2,0
 Vanderbilt,2022,2,1,0
 Wake Forest,2022,3,0,0
@@ -1498,7 +1498,7 @@ Maryland,2022,0,2,0
 West Virginia,2022,4,0,0
 Clemson,2022,3,0,0
 Washington,2022,0,2,0
-Ohio State,2022,1,1,0
+Ohio St.,2022,1,1,0
 Missouri,2022,5,0,0
 Florida,2022,1,1,0
 Western Kentucky,2022,1,1,0
@@ -1506,18 +1506,18 @@ Harvard,2022,4,0,0
 Xavier,2022,1,1,0
 Pepperdine,2022,3,0,0
 Notre Dame,2022,1,1,0
-Wisconsin-Milwaukee,2022,1,0,1
-Washington State,2022,1,1,0
+Milwaukee,2022,1,0,1
+Washington St.,2022,1,1,0
 Georgia,2022,3,0,0
 Butler,2022,3,0,0
 Tulsa,2022,3,0,0
 St. John's,2022,3,0,0
 California,2022,2,0,0
 Providence,2022,2,0,0
-Wichita State,2022,2,0,0
+Wichita St.,2022,2,0,0
 Iowa,2022,2,0,0
 VCU,2022,2,0,0
-Oregon State,2022,2,0,0
+Oregon St.,2022,2,0,0
 George Washington,2022,2,0,0
 Nevada,2022,2,0,0
 Auburn,2022,0,0,1
@@ -1525,30 +1525,30 @@ Oregon,2022,0,0,1
 Syracuse,2022,0,1,0
 Texas,2022,0,1,0
 Temple,2022,2,0,0
-Iowa State,2022,0,1,0
+Iowa St.,2022,0,1,0
 Arizona,2022,0,1,0
 North Texas,2022,2,0,0
 Virginia,2022,0,1,0
 DePaul,2022,0,1,0
 Old Dominion,2022,2,0,0
 Arkansas,2022,0,1,0
-Georgia State,2022,2,0,0
+Georgia St.,2022,2,0,0
 Richmond,2022,2,0,0
 Samford,2022,0,1,0
 UCF,2022,1,0,0
 Drake,2022,1,0,0
 Virginia Tech,2022,1,0,0
-Long Beach State,2022,1,0,0
+Long Beach St.,2022,1,0,0
 Boston College,2022,1,0,0
 BYU,2022,1,0,0
 Georgia Southern,2022,1,0,0
 Minnesota,2022,1,0,0
-San Diego State,2022,1,0,0
+San Diego St.,2022,1,0,0
 Rutgers,2022,1,0,0
 TCU,2022,1,0,0
 Saint Joseph's,2022,1,0,0
 Wyoming,2022,1,0,0
-USF,2022,1,0,0
+South Florida,2022,1,0,0
 San Diego,2022,1,0,0
 UNLV,2022,1,0,0
 UTSA,2022,1,0,0
@@ -1556,41 +1556,41 @@ Pittsburgh,2022,1,0,0
 Florida Atlantic,2022,1,0,0
 East Carolina,2022,1,0,0
 Buffalo,2022,1,0,0
-Louisiana,2022,1,0,0
+Louisiana Lafayette,2022,1,0,0
 Austin Peay,2022,1,0,0
 Oral Roberts,2022,1,0,0
-St. Mary's,2022,1,0,0
-Boise State,2022,1,0,0
+Saint Mary's,2022,1,0,0
+Boise St.,2022,1,0,0
 La Salle,2022,1,0,0
 Texas Tech,2022,1,0,0
 Louisiana Tech,2022,1,0,0
 George Mason,2022,1,0,0
 Rhode Island,2022,1,0,0
 James Madison,2022,1,0,0
-East Tennessee State,2022,1,0,0
-Utah State,2022,1,0,0
-Colorado State,2022,1,0,0
+East Tennessee St.,2022,1,0,0
+Utah St.,2022,1,0,0
+Colorado St.,2022,1,0,0
 South Alabama,2022,1,0,0
 Duquesne,2022,1,0,0
-Kansas State,2022,1,0,0
+Kansas St.,2022,1,0,0
 Iona,2022,1,0,0
 Hofstra,2022,1,0,0
 Furman,2022,1,0,0
 Liberty,2022,1,0,0
 Akron,2022,1,0,0
-Loyola (Chi),2022,1,0,0
+Loyola Chicago,2022,1,0,0
 The Citadel,2022,1,0,0
 Brown,2022,1,0,0
 North Carolina A&T,2022,1,0,0
-Tennessee State,2022,1,0,0
+Tennessee St.,2022,1,0,0
 Elon,2022,1,0,0
 Boston University,2022,1,0,0
-Illinois-Chicago,2022,1,0,0
+Illinois Chicago,2022,1,0,0
 Belmont,2022,1,0,0
 Columbia,2022,1,0,0
 Albany,2022,1,0,0
-Wright State,2022,1,0,0
-Sam Houston,2022,1,0,0
+Wright St.,2022,1,0,0
+Sam Houston St.,2022,1,0,0
 Utah Valley,2022,0,0,0
 Charlotte,2022,0,0,0
 UNC Wilmington,2022,0,0,0
@@ -1602,20 +1602,20 @@ Toledo,2022,0,0,0
 Valparaiso,2022,0,0,0
 William & Mary,2022,0,0,0
 American,2022,0,0,0
-Wisconsin-Green Bay,2022,0,0,0
+Green Bay,2022,0,0,0
 Bradley,2022,0,0,0
 Southern Illinois,2022,0,0,0
 North Dakota,2022,0,0,0
-New Mexico State,2022,0,0,0
+New Mexico St.,2022,0,0,0
 Yale,2022,0,0,0
-Montana State,2022,0,0,0
+Montana St.,2022,0,0,0
 Utah,2022,0,0,0
 Princeton,2022,0,0,0
-Indiana State,2022,0,0,0
+Indiana St.,2022,0,0,0
 Wofford,2022,0,0,0
-Ball State,2022,0,0,0
-Appalachian State,2022,0,0,0
+Ball St.,2022,0,0,0
+Appalachian St.,2022,0,0,0
 Air Force,2022,0,0,0
 UC Santa Barbara,2022,0,0,0
-Mount St. Mary's,2022,0,0,0
+Saint Mary's,2022,0,0,0
 Northern Iowa,2022,0,0,0
